@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<!--<meta charset="utf-8"> -->
+	<title>Artville</title>
+</head>
+<hr>
+<style>
+        .aligned {
+            display: flex;
+            }
+          
+        span {
+            padding: 40px;
+        }
+    </style>
+</head>
+  
+<body>
+    <div class="aligned">
+        <img src=
+"painting.jpg"
+            width="450" alt="">
+             
+        <span>
+        		<body>
+            <h1> ARTVILLE </h1>
+
+<!--<img src="painting.jpg" width="400px;">-->
+
+            <h2>About us</h2>
+
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            dent, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
+
+            <h2>Explore all products</h2>
+
+     
+            <h2>Filter products based on your preference </h2>
+
+        </span>
+    </div> 
+
+<body>
+	<h2>EXPLORE</h2>
+<br>
+<br>
+<h2>Filter on the basis of your preferences</h2>
+<form>
+		<h4>Enter your email-id:</h4>
+		<input type="email" value="email-id">
+	
+		<h4>Select your age:</h4>
+		<input type="number" value="age">
+		
+		<h4>Enter your experience level:</h4> 
+		<h5>(B for beginner; I for intermediate; E for expert;)
+			
+		<input type="text">
+		<br><br>
+
+		<!--<input type="range">-->
+		<input type="reset"><br>
+		<input type="submit">
+		<!--<input type="text">-->
+		
+		
+</form>
+</html>
